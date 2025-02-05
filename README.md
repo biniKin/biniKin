@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile dev
 - 🌱 I’m currently learning SWE @ AASTU
 
-![GitHub Streak](https://streak-stats.demolab.com?user=biniKin&theme=light&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=biniKin&theme=dark&hide_border=true)
 
 <!---
 biniKin/biniKin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
