@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Biniyam Kin
-- 👀 I’m interested in Mobile dev
+- 👋 Hi, I’m Biniyam Kinfe, aspiring developer 
+- 👀 I’m interested in Mobile dev, Web dev
 - 🌱 I’m currently learning SWE @ AASTU
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=biniKin)](https://git.io/streak-stats)
