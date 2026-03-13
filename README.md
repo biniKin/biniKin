@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Software engineering at Addis Ababa Science and Technology University **Software Engineering**
 
-- 📫 How to reach me **biniyamkinfe21@gmail.com, @bxlio on Telegram**
+- 📫 How to reach me **binikin90@gmail.com, @bxlio on Telegram**
 
 - ⚡ Fun fact **I have good sense of humor, and love playing music.**
 
